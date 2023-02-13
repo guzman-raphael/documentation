@@ -1,6 +1,6 @@
 # ---------------------- PROJECT SPECIFIC ---------------------------
 
-site_name: DataJoint Documentation
+site_name: Documentation
 site_url: http://localhost/docs
 repo_name: datajoint-company/datajoint-docs
 repo_url: https://github.com/datajoint-company/datajoint-docs
